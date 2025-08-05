@@ -13,7 +13,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 📊 GitHub Stats:
-
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ananyag309&theme=github_dark)
 ![](https://nirzak-streak-stats.vercel.app/?user=bhavesh2327&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavesh2327&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
